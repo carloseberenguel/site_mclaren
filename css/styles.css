@@ -1,8 +1,8 @@
 *{
-    margin:0;
-    padding:0;
+    margin:0; /*zerar as margens*/
+    padding:0; /*zerar as margens*/
     box-sizing: border-box;
-    text-decoration:none;
+    text-decoration:none; /*tirar os prontos*/
     list-style: none;
 }
 
